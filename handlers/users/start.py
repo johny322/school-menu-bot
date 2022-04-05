@@ -1,6 +1,7 @@
 from aiogram import types
 from aiogram.dispatcher.filters.builtin import CommandStart
 
+from data.config import ADMINS, MENU
 from loader import dp
 
 
